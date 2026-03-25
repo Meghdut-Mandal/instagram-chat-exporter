@@ -10,7 +10,7 @@ Browser console script to export Instagram DMs as JSON. Intercepts live GraphQL 
 
 3. **First time only:** The console may block pasting. Click the console input, type `allow pasting`, and press Enter to enable it.
 
-4. Paste the entire contents of `insta-chat-export.js` and press Enter.
+4. Paste the entire contents of [`insta-chat-export.js`](https://github.com/Meghdut-Mandal/instagram-chat-exporter/blob/main/insta-chat-export.js) and press Enter.
 
 5. You'll see:
    ```
